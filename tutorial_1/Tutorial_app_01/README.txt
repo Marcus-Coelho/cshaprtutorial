@@ -1,0 +1,1 @@
+First app created in csharp to learn how to use VS2022, the ways to run the app in powershell and CLI. Also write a random message to the console, using the Console.writeLine command
