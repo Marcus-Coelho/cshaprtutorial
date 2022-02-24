@@ -1,0 +1,5 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: App_tutorial_2, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>App_tutorial_2 -> C:\Users\Marcus\Pessoalmarcus\devprogram\cshaprtutorial\tutorial_2\App_tutorial_2\App_tutorial_2\bin\Debug\net6.0\App_tutorial_2.dll
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
