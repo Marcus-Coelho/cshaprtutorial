@@ -14,7 +14,7 @@ public class Program2 //add a 2 number after Program because was in error
 {
     public static void Main()
     {
-        Console.WriteLine("Hello world! This line will be write in console. My name is Marcus! It's a pleasure to meet you!");
+        Console.WriteLine("Hello world! This line will be write in console. My name is Marcus! It's a pleasure to meet you, thanks!");
     }
 }
 
