@@ -1,0 +1,15 @@
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\bin\Debug\net6.0\tutorial_5.exe
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\bin\Debug\net6.0\tutorial_5.deps.json
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\bin\Debug\net6.0\tutorial_5.runtimeconfig.json
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\bin\Debug\net6.0\tutorial_5.dll
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\bin\Debug\net6.0\tutorial_5.pdb
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\obj\Debug\net6.0\tutorial_5.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\obj\Debug\net6.0\tutorial_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\obj\Debug\net6.0\tutorial_5.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\obj\Debug\net6.0\tutorial_5.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\obj\Debug\net6.0\tutorial_5.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\obj\Debug\net6.0\tutorial_5.dll
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\obj\Debug\net6.0\refint\tutorial_5.dll
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\obj\Debug\net6.0\tutorial_5.pdb
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\obj\Debug\net6.0\tutorial_5.genruntimeconfig.cache
+C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\obj\Debug\net6.0\ref\tutorial_5.dll
