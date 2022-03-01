@@ -1,0 +1,8 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: Notas_alunos, Configuração: Debug Any CPU ------
+1>C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\Program.cs(25,43,25,62): warning CS8601: Possível atribuição de referência nula.
+1>C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\Program.cs(76,35,76,53): warning CS8600: Conversão de literal nula ou possível valor nulo em tipo não anulável.
+1>C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\Program.cs(78,20,78,32): warning CS8603: Possível retorno de referência nula.
+1>Notas_alunos -> C:\Users\Marcus\source\repos\Notas_alunos\Notas_alunos\bin\Debug\net6.0\Notas_alunos.dll
+1>Projeto de compilação pronto "Notas_alunos.csproj".
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
