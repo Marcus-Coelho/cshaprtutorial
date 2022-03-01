@@ -1,0 +1,15 @@
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\bin\Debug\net6.0\APPmc001.exe
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\bin\Debug\net6.0\APPmc001.deps.json
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\bin\Debug\net6.0\APPmc001.runtimeconfig.json
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\bin\Debug\net6.0\APPmc001.dll
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\bin\Debug\net6.0\APPmc001.pdb
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\obj\Debug\net6.0\APPmc001.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\obj\Debug\net6.0\APPmc001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\obj\Debug\net6.0\APPmc001.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\obj\Debug\net6.0\APPmc001.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\obj\Debug\net6.0\APPmc001.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\obj\Debug\net6.0\APPmc001.dll
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\obj\Debug\net6.0\refint\APPmc001.dll
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\obj\Debug\net6.0\APPmc001.pdb
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\obj\Debug\net6.0\APPmc001.genruntimeconfig.cache
+C:\Users\Marcus\source\repos\APPmc001\APPmc001\obj\Debug\net6.0\ref\APPmc001.dll
