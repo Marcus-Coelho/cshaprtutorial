@@ -2,7 +2,7 @@
 {
     public abstract class Conta
     {
-        //atribuir uma propriedade chamada de saldo
+        //atribuir uma propriedade chamada de saldo - trad: assign a property called balance
         //protected somente a própria classe ou as classes filhas podem acessar
         //já não poderia ter acesso por também ser abstrata
         protected double saldo;

@@ -7,7 +7,12 @@
 
         public void DescreverCarro()
         {
-            Console.WriteLine($"o meu carro é o(a) {Name} {Montadora}");
+            Console.WriteLine($"My car is {Name} by {Montadora}");
+        }
+
+        public string DescreverCarrotostring()
+        {
+            return $"My car is {Name} by {Montadora}";
         }
     }
 }

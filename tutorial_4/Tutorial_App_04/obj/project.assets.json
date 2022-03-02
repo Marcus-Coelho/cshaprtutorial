@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Marcus\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcus\\source\\repos\\tutorial_4\\Tutorial_App_04\\Tutorial_App_04.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\cshaprtutorial\\tutorial_4\\Tutorial_App_04\\Tutorial_App_04.csproj",
       "projectName": "Tutorial_App_04",
-      "projectPath": "C:\\Users\\Marcus\\source\\repos\\tutorial_4\\Tutorial_App_04\\Tutorial_App_04.csproj",
-      "packagesPath": "C:\\Users\\Marcus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcus\\source\\repos\\tutorial_4\\Tutorial_App_04\\obj\\",
+      "projectPath": "C:\\Users\\User\\source\\repos\\cshaprtutorial\\tutorial_4\\Tutorial_App_04\\Tutorial_App_04.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\cshaprtutorial\\tutorial_4\\Tutorial_App_04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

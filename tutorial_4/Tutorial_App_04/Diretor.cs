@@ -4,7 +4,7 @@
     {
         public override void SeApresentar()
         {
-            Console.WriteLine($"olá, sou DIRETOR");
+            Console.WriteLine($"Helo! I'm your imaginarium Director and my name is {Nome}");
         }
 
     }
